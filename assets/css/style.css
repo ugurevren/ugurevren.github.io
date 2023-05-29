@@ -124,7 +124,7 @@ h6 {
   top: 0;
   left: 0;
   bottom: 0;
-  z-index: 9997;
+  z-index: 97;
   transition: all 0.5s;
   padding: 15px;
   overflow-y: auto;
@@ -279,7 +279,7 @@ h6 {
   height: 100vh;
   background: url("../img/hero-bg.jpg") top right no-repeat;
   background-size: cover;
-  position: relative;
+  position: left;
 }
 
 @media (min-width: 992px) {
